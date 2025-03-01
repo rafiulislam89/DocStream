@@ -9,7 +9,7 @@ DocStream is an online platform that enables multiple hospitals to efficiently t
 - **Project Duration:** August 2023 - September 2024  
 
 ## **Contributors**  
-- **[Rafiul Islam](https://www.linkedin.com/in/rafiulcipher89)**  
+- **[Rafiul Islam](https://www.linkedin.com/in/rafiulislam-cse)**  
 - **[Iqbal Ahsan](https://www.linkedin.com/in/iqbal-ahsan)**  
 
 ## **Tech Stack**  
@@ -139,5 +139,5 @@ python manage.py runserver
 
 
 ---  
-🚀 Developed by **[Rafiul Islam](https://www.linkedin.com/in/rafiulcipher89)** & **[Iqbal Ahsan](https://www.linkedin.com/in/iqbal-ahsan)**  
+🚀 Developed by **[Rafiul Islam](https://www.linkedin.com/in/rafiulislam-cse)** & **[Iqbal Ahsan](https://www.linkedin.com/in/iqbal-ahsan)**  
 
