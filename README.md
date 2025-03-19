@@ -143,7 +143,6 @@ python manage.py runserver
 </p>
 
 
-
 ---  
 🚀 Developed by **[Rafiul Islam](https://www.linkedin.com/in/rafiulislam-cse)** & **[Iqbal Ahsan](https://www.linkedin.com/in/iqbal-ahsan)**  
 
