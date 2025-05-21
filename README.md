@@ -7,6 +7,7 @@ DocStream is an online platform that enables multiple hospitals to efficiently t
 
 
 
+
 ## **Project Details**  
 - **Project Type:** Software Engineering Project  
 - **Degree:** B.Sc. in Computer Science and Engineering (CSE)  
