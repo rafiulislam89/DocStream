@@ -4,6 +4,8 @@
 
 
 
+
+
 ## **Overview**  
 DocStream is an online platform that enables multiple hospitals to efficiently track, monitor, and share patient health records. Patients can access information about various hospitals and doctors, book appointments online, purchase medicines from an integrated online pharmacy, pay for laboratory tests through a secure payment gateway, and communicate with their appointed doctors via chat.  
 
